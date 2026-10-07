@@ -1,0 +1,18 @@
+product_id,product_name,category,list_price
+101,Vietnamese Iced Milk Coffee,coffee,45000
+102,Black Coffee,coffee,39000
+103,Latte,coffee,52000
+104,Cappuccino,coffee,52000
+105,Cold Brew,coffee,55000
+106,Coconut Coffee,coffee,59000
+107,Americano,coffee,45000
+201,Peach Tea,tea,45000
+202,Lotus Tea,tea,42000
+203,Green Tea Latte,tea,55000
+204,Lemongrass Tea,tea,39000
+301,Butter Croissant,pastry,31500
+302,Banh Mi Sandwich,pastry,45000
+303,Cheesecake Slice,pastry,55000
+304,Mung Bean Cake,pastry,25000
+401,Ceramic Tumbler,merchandise,220000
+402,Roasted Bean Bag 250g,merchandise,165000

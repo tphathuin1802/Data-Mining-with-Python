@@ -1,0 +1,13 @@
+store_id,store_name,district,store_type,seats
+1,Nguyen Hue,District 1,mall,70
+2,Ben Thanh,District 1,mall,62
+3,Landmark 81,Binh Thanh,mall,58
+4,Vincom Dong Khoi,District 1,mall,54
+5,Crescent Mall,District 7,mall,48
+6,Van Hanh Mall,District 10,mall,44
+7,University Village,Thu Duc,campus,40
+8,RMIT Campus,District 7,campus,36
+9,Phu Nhuan Corner,Phu Nhuan,residential,32
+10,Binh Thanh Garden,Binh Thanh,residential,30
+11,Tan Son Nhat T1,Tan Binh,transit,24
+12,Dien Bien Phu Hub,Binh Thanh,transit,16
