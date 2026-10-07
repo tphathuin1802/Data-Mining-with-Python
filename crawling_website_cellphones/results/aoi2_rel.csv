@@ -1,0 +1,72 @@
+,brand_group,product_type,price_tier,storage,Count,t-weight (%)
+21,Chinese brands,Phone,On request,Unknown,362,35.55992141453831
+41,Other international,Phone,On request,Unknown,63,6.18860510805501
+19,Chinese brands,Phone,On request,Large (>=256 GB),56,5.50098231827112
+16,Chinese brands,Phone,Mid-range,Large (>=256 GB),49,4.81335952848723
+13,Chinese brands,Phone,Budget,Small (<=128 GB),33,3.2416502946954813
+68,Vietnamese brands,Phone,On request,Unknown,32,3.143418467583497
+54,Samsung,Phone,On request,Unknown,26,2.5540275049115913
+32,Chinese brands,Tablet/E-reader,On request,Unknown,25,2.455795677799607
+6,Apple,Tablet/E-reader,Flagship,Large (>=256 GB),22,2.161100196463654
+0,Apple,Phone,Flagship,Large (>=256 GB),21,2.06286836935167
+27,Chinese brands,Tablet/E-reader,Mid-range,Large (>=256 GB),20,1.9646365422396856
+25,Chinese brands,Tablet/E-reader,Budget,Small (<=128 GB),18,1.768172888015717
+22,Chinese brands,Phone,Premium,Large (>=256 GB),17,1.6699410609037328
+17,Chinese brands,Phone,Mid-range,Small (<=128 GB),17,1.6699410609037328
+55,Samsung,Phone,Premium,Large (>=256 GB),16,1.5717092337917484
+28,Chinese brands,Tablet/E-reader,Mid-range,Small (<=128 GB),16,1.5717092337917484
+20,Chinese brands,Phone,On request,Small (<=128 GB),15,1.4734774066797642
+52,Samsung,Phone,On request,Large (>=256 GB),14,1.37524557956778
+66,Vietnamese brands,Phone,Budget,Unknown,13,1.2770137524557956
+48,Samsung,Phone,Flagship,Large (>=256 GB),12,1.1787819253438114
+11,Apple,Tablet/E-reader,Premium,Small (<=128 GB),10,0.9823182711198428
+53,Samsung,Phone,On request,Small (<=128 GB),9,0.8840864440078585
+50,Samsung,Phone,Mid-range,Small (<=128 GB),9,0.8840864440078585
+12,Chinese brands,Phone,Budget,Large (>=256 GB),8,0.7858546168958742
+10,Apple,Tablet/E-reader,Premium,Large (>=256 GB),8,0.7858546168958742
+30,Chinese brands,Tablet/E-reader,On request,Large (>=256 GB),8,0.7858546168958742
+4,Apple,Phone,Premium,Large (>=256 GB),7,0.68762278978389
+15,Chinese brands,Phone,Flagship,Large (>=256 GB),7,0.68762278978389
+64,Samsung,Tablet/E-reader,Premium,Large (>=256 GB),6,0.5893909626719057
+33,Chinese brands,Tablet/E-reader,Premium,Large (>=256 GB),6,0.5893909626719057
+34,Other international,Phone,Budget,Unknown,6,0.5893909626719057
+46,Samsung,Phone,Budget,Small (<=128 GB),5,0.4911591355599214
+61,Samsung,Tablet/E-reader,Mid-range,Small (<=128 GB),5,0.4911591355599214
+31,Chinese brands,Tablet/E-reader,On request,Small (<=128 GB),4,0.3929273084479371
+5,Apple,Phone,Premium,Small (<=128 GB),4,0.3929273084479371
+57,Samsung,Phone,Premium,Unknown,4,0.3929273084479371
+62,Samsung,Tablet/E-reader,On request,Large (>=256 GB),4,0.3929273084479371
+14,Chinese brands,Phone,Budget,Unknown,4,0.3929273084479371
+29,Chinese brands,Tablet/E-reader,Mid-range,Unknown,4,0.3929273084479371
+51,Samsung,Phone,Mid-range,Unknown,3,0.29469548133595286
+43,Other international,Tablet/E-reader,Budget,Small (<=128 GB),3,0.29469548133595286
+49,Samsung,Phone,Mid-range,Large (>=256 GB),3,0.29469548133595286
+37,Other international,Phone,Mid-range,Small (<=128 GB),3,0.29469548133595286
+36,Other international,Phone,Mid-range,Large (>=256 GB),3,0.29469548133595286
+18,Chinese brands,Phone,Mid-range,Unknown,3,0.29469548133595286
+58,Samsung,Tablet/E-reader,Budget,Small (<=128 GB),2,0.19646365422396855
+65,Samsung,Tablet/E-reader,Premium,Small (<=128 GB),2,0.19646365422396855
+60,Samsung,Tablet/E-reader,Mid-range,Large (>=256 GB),2,0.19646365422396855
+70,Vietnamese brands,Tablet/E-reader,On request,Unknown,2,0.19646365422396855
+44,Other international,Tablet/E-reader,Mid-range,Small (<=128 GB),2,0.19646365422396855
+38,Other international,Phone,Mid-range,Unknown,2,0.19646365422396855
+1,Apple,Phone,Mid-range,Small (<=128 GB),2,0.19646365422396855
+26,Chinese brands,Tablet/E-reader,Budget,Unknown,2,0.19646365422396855
+23,Chinese brands,Phone,Premium,Unknown,2,0.19646365422396855
+47,Samsung,Phone,Budget,Unknown,1,0.09823182711198428
+63,Samsung,Tablet/E-reader,On request,Unknown,1,0.09823182711198428
+69,Vietnamese brands,Tablet/E-reader,Budget,Small (<=128 GB),1,0.09823182711198428
+2,Apple,Phone,On request,Large (>=256 GB),1,0.09823182711198428
+67,Vietnamese brands,Phone,On request,Large (>=256 GB),1,0.09823182711198428
+3,Apple,Phone,On request,Unknown,1,0.09823182711198428
+7,Apple,Tablet/E-reader,Flagship,Small (<=128 GB),1,0.09823182711198428
+8,Apple,Tablet/E-reader,Mid-range,Large (>=256 GB),1,0.09823182711198428
+24,Chinese brands,Tablet/E-reader,Budget,Large (>=256 GB),1,0.09823182711198428
+9,Apple,Tablet/E-reader,Mid-range,Small (<=128 GB),1,0.09823182711198428
+45,Other international,Tablet/E-reader,On request,Unknown,1,0.09823182711198428
+59,Samsung,Tablet/E-reader,Flagship,Large (>=256 GB),1,0.09823182711198428
+56,Samsung,Phone,Premium,Small (<=128 GB),1,0.09823182711198428
+39,Other international,Phone,On request,Large (>=256 GB),1,0.09823182711198428
+40,Other international,Phone,On request,Small (<=128 GB),1,0.09823182711198428
+42,Other international,Phone,Premium,Large (>=256 GB),1,0.09823182711198428
+35,Other international,Phone,Flagship,Large (>=256 GB),1,0.09823182711198428

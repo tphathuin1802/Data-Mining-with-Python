@@ -1,0 +1,42 @@
+,brand_group,product_type,price_tier,Products,Avg_price_M,Avg_discount
+0,Apple,Phone,Flagship,21,48.885238095238094,6.928571428571429
+1,Apple,Phone,Mid-range,2,14.64,6.0
+2,Apple,Phone,On request,2,,
+3,Apple,Phone,Premium,11,22.817272727272726,10.1
+4,Apple,Tablet,Flagship,23,49.41173913043478,15.26086956521739
+5,Apple,Tablet,Mid-range,2,13.44,5.5
+6,Apple,Tablet,Premium,18,22.301111111111112,7.833333333333333
+7,Chinese brands,E-reader,Budget,2,4.19,13.0
+8,Chinese brands,E-reader,Mid-range,4,8.19,15.25
+9,Chinese brands,E-reader,On request,2,,
+10,Chinese brands,Phone,Budget,45,3.805777777777778,11.166666666666666
+11,Chinese brands,Phone,Flagship,7,40.14714285714286,18.142857142857142
+12,Chinese brands,Phone,Mid-range,69,8.497101449275362,15.186440677966102
+13,Chinese brands,Phone,On request,433,,
+14,Chinese brands,Phone,Premium,19,21.28526315789474,20.3125
+15,Chinese brands,Tablet,Budget,19,3.6794736842105262,21.076923076923077
+16,Chinese brands,Tablet,Mid-range,36,9.498333333333333,12.67741935483871
+17,Chinese brands,Tablet,On request,35,,
+18,Chinese brands,Tablet,Premium,6,19.631666666666668,6.833333333333333
+19,Other international,E-reader,Budget,3,3.69,18.0
+20,Other international,E-reader,Mid-range,2,9.19,11.5
+21,Other international,Phone,Budget,6,1.3533333333333333,6.0
+22,Other international,Phone,Flagship,1,37.99,3.0
+23,Other international,Phone,Mid-range,8,7.99,16.166666666666668
+24,Other international,Phone,On request,65,,
+25,Other international,Phone,Premium,1,23.99,31.0
+26,Other international,Tablet,On request,1,,
+27,Samsung,Phone,Budget,6,3.915,16.2
+28,Samsung,Phone,Flagship,12,44.14,14.545454545454545
+29,Samsung,Phone,Mid-range,15,9.292,19.916666666666668
+30,Samsung,Phone,On request,49,,
+31,Samsung,Phone,Premium,21,22.96142857142857,21.529411764705884
+32,Samsung,Tablet,Budget,2,3.99,19.5
+33,Samsung,Tablet,Flagship,1,30.99,15.0
+34,Samsung,Tablet,Mid-range,7,10.877142857142857,17.714285714285715
+35,Samsung,Tablet,On request,5,,
+36,Samsung,Tablet,Premium,8,20.7025,15.5
+37,Vietnamese brands,Phone,Budget,13,1.0426923076923078,6.7
+38,Vietnamese brands,Phone,On request,33,,
+39,Vietnamese brands,Tablet,Budget,1,1.99,20.0
+40,Vietnamese brands,Tablet,On request,2,,

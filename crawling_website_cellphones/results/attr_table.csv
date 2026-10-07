@@ -1,0 +1,15 @@
+,Attribute,Source,Type,Why it belongs to this type,Possible use in later analysis
+0,category,Original,Nominal,Two labels (mobile/tablet) with no order; only equality is meaningful.,Grouping variable; dimension in the data cube.
+1,name,Original,Nominal,Free-text product title; identifies a product but has no order or arithmetic.,"Source for brand, RAM, storage, connectivity extraction."
+2,url,Original,Nominal,Unique page address; pure identifier.,Duplicate check; excluded from modelling.
+3,is_contact,Original,Nominal (binary),"True/False flag for ""price on request""; categories only.",Availability dimension; explains missing prices.
+4,price_sale,Original,Ratio,Money amount in VND with a true zero; ratios are meaningful (2x as expensive).,"Descriptive statistics, distance, class target (price level)."
+5,price_original,Original,Ratio,List price before promotion in VND; true zero.,Correlation with sale price; discount check.
+6,discount,Original,Ratio,Percentage off list price; 0% means no discount and 40% is twice 20%.,"Variability, outliers, similarity attribute."
+7,brand,Derived,Nominal,Manufacturer extracted from name; no natural order.,"Concept hierarchy, chi-square, information gain."
+8,ram_gb,Derived,Ratio,Memory in GB with true zero; 12 GB is 3x of 4 GB.,Correlation with price; ordinal tiers for classification.
+9,storage_gb,Derived,Ratio,Capacity in GB (TB converted to GB); true zero.,"Distance, correlation, visualization encoding."
+10,connectivity,Derived,Nominal,5G / 4G / Wifi / Unspecified network label; no order.,Chi-square and information gain.
+11,price_level,Derived,Ordinal,Low < Medium < High; order exists but gaps are unequal.,Class (target) variable for classification.
+12,storage_tier,Derived,Ordinal,<=64 < 128 < 256 < >=512 GB; ordered categories.,Candidate predictor (information gain).
+13,model_year,Derived,Interval,"Calendar year in the title (2019-2026); differences meaningful but year 0 is arbitrary, so no ratios.",Only 31 listings contain it; descriptive use only.

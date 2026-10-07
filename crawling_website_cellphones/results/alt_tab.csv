@@ -1,0 +1,4 @@
+,Scheme,Low,Medium,High,Entropy (bits)
+0,Equal-frequency (terciles) - chosen,130,130,131,1.5849530720162932
+1,Equal-width (3 bins of equal VND range),317,59,15,0.8375650239041081
+2,Domain thresholds (<5M / 5-15M / >=15M),97,145,149,1.5600414896521633

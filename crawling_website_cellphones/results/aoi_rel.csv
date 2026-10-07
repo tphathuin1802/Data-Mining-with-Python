@@ -1,0 +1,113 @@
+,brand_group,product_type,price_tier,storage,network,Count,t-weight (%)
+34,Chinese brands,Phone,On request,Unknown,Unspecified,328,32.220039292730846
+70,Other international,Phone,On request,Unknown,Unspecified,59,5.7956777996070725
+33,Chinese brands,Phone,On request,Unknown,Cellular,34,3.3398821218074657
+30,Chinese brands,Phone,On request,Large (>=256 GB),Unspecified,33,3.2416502946954813
+24,Chinese brands,Phone,Mid-range,Large (>=256 GB),Cellular,32,3.143418467583497
+29,Chinese brands,Phone,On request,Large (>=256 GB),Cellular,23,2.259332023575639
+19,Chinese brands,Phone,Budget,Small (<=128 GB),Cellular,22,2.161100196463654
+0,Apple,Phone,Flagship,Large (>=256 GB),Unspecified,21,2.06286836935167
+109,Vietnamese brands,Phone,On request,Unknown,Unspecified,21,2.06286836935167
+53,Chinese brands,Tablet,On request,Unknown,Unspecified,20,1.9646365422396856
+87,Samsung,Phone,On request,Unknown,Unspecified,19,1.8664047151277015
+25,Chinese brands,Phone,Mid-range,Large (>=256 GB),Unspecified,17,1.6699410609037328
+7,Apple,Tablet,Flagship,Large (>=256 GB),Wifi,12,1.1787819253438114
+20,Chinese brands,Phone,Budget,Small (<=128 GB),Unspecified,11,1.080550098231827
+35,Chinese brands,Phone,Premium,Large (>=256 GB),Cellular,11,1.080550098231827
+108,Vietnamese brands,Phone,On request,Unknown,Cellular,11,1.080550098231827
+43,Chinese brands,Tablet,Mid-range,Large (>=256 GB),Unspecified,10,0.9823182711198428
+82,Samsung,Phone,On request,Large (>=256 GB),Cellular,10,0.9823182711198428
+89,Samsung,Phone,Premium,Large (>=256 GB),Unspecified,10,0.9823182711198428
+75,Samsung,Phone,Flagship,Large (>=256 GB),Cellular,10,0.9823182711198428
+6,Apple,Tablet,Flagship,Large (>=256 GB),Cellular,10,0.9823182711198428
+39,Chinese brands,Tablet,Budget,Small (<=128 GB),Cellular,9,0.8840864440078585
+26,Chinese brands,Phone,Mid-range,Small (<=128 GB),Cellular,9,0.8840864440078585
+47,Chinese brands,Tablet,Mid-range,Small (<=128 GB),Wifi,9,0.8840864440078585
+44,Chinese brands,Tablet,Mid-range,Large (>=256 GB),Wifi,9,0.8840864440078585
+32,Chinese brands,Phone,On request,Small (<=128 GB),Unspecified,9,0.8840864440078585
+18,Chinese brands,Phone,Budget,Large (>=256 GB),Unspecified,8,0.7858546168958742
+27,Chinese brands,Phone,Mid-range,Small (<=128 GB),Unspecified,8,0.7858546168958742
+106,Vietnamese brands,Phone,Budget,Unknown,Unspecified,8,0.7858546168958742
+4,Apple,Phone,Premium,Large (>=256 GB),Unspecified,7,0.68762278978389
+79,Samsung,Phone,Mid-range,Small (<=128 GB),Cellular,7,0.68762278978389
+86,Samsung,Phone,On request,Unknown,Cellular,7,0.68762278978389
+88,Samsung,Phone,Premium,Large (>=256 GB),Cellular,6,0.5893909626719057
+41,Chinese brands,Tablet,Budget,Small (<=128 GB),Wifi,6,0.5893909626719057
+36,Chinese brands,Phone,Premium,Large (>=256 GB),Unspecified,6,0.5893909626719057
+31,Chinese brands,Phone,On request,Small (<=128 GB),Cellular,6,0.5893909626719057
+55,Chinese brands,Tablet,Premium,Large (>=256 GB),Unspecified,5,0.4911591355599214
+12,Apple,Tablet,Premium,Large (>=256 GB),Wifi,5,0.4911591355599214
+73,Samsung,Phone,Budget,Small (<=128 GB),Cellular,5,0.4911591355599214
+13,Apple,Tablet,Premium,Small (<=128 GB),Cellular,5,0.4911591355599214
+105,Vietnamese brands,Phone,Budget,Unknown,Cellular,5,0.4911591355599214
+84,Samsung,Phone,On request,Small (<=128 GB),Cellular,5,0.4911591355599214
+59,Other international,Phone,Budget,Unknown,Cellular,5,0.4911591355599214
+14,Apple,Tablet,Premium,Small (<=128 GB),Wifi,5,0.4911591355599214
+46,Chinese brands,Tablet,Mid-range,Small (<=128 GB),Unspecified,4,0.3929273084479371
+49,Chinese brands,Tablet,On request,Large (>=256 GB),Wifi,4,0.3929273084479371
+85,Samsung,Phone,On request,Small (<=128 GB),Unspecified,4,0.3929273084479371
+91,Samsung,Phone,Premium,Unknown,Unspecified,4,0.3929273084479371
+21,Chinese brands,Phone,Budget,Unknown,Unspecified,4,0.3929273084479371
+48,Chinese brands,Tablet,On request,Large (>=256 GB),Unspecified,4,0.3929273084479371
+83,Samsung,Phone,On request,Large (>=256 GB),Unspecified,4,0.3929273084479371
+5,Apple,Phone,Premium,Small (<=128 GB),Unspecified,4,0.3929273084479371
+23,Chinese brands,Phone,Flagship,Large (>=256 GB),Unspecified,4,0.3929273084479371
+69,Other international,Phone,On request,Unknown,Cellular,4,0.3929273084479371
+16,Chinese brands,E-reader,Mid-range,Unknown,Unspecified,4,0.3929273084479371
+81,Samsung,Phone,Mid-range,Unknown,Unspecified,3,0.29469548133595286
+22,Chinese brands,Phone,Flagship,Large (>=256 GB),Cellular,3,0.29469548133595286
+11,Apple,Tablet,Premium,Large (>=256 GB),Cellular,3,0.29469548133595286
+57,Other international,E-reader,Budget,Small (<=128 GB),Unspecified,3,0.29469548133595286
+28,Chinese brands,Phone,Mid-range,Unknown,Unspecified,3,0.29469548133595286
+45,Chinese brands,Tablet,Mid-range,Small (<=128 GB),Cellular,3,0.29469548133595286
+102,Samsung,Tablet,Premium,Large (>=256 GB),Wifi,3,0.29469548133595286
+40,Chinese brands,Tablet,Budget,Small (<=128 GB),Unspecified,3,0.29469548133595286
+97,Samsung,Tablet,Mid-range,Small (<=128 GB),Wifi,3,0.29469548133595286
+101,Samsung,Tablet,Premium,Large (>=256 GB),Cellular,3,0.29469548133595286
+99,Samsung,Tablet,On request,Large (>=256 GB),Wifi,2,0.19646365422396855
+95,Samsung,Tablet,Mid-range,Large (>=256 GB),Wifi,2,0.19646365422396855
+96,Samsung,Tablet,Mid-range,Small (<=128 GB),Cellular,2,0.19646365422396855
+80,Samsung,Phone,Mid-range,Small (<=128 GB),Unspecified,2,0.19646365422396855
+78,Samsung,Phone,Mid-range,Large (>=256 GB),Unspecified,2,0.19646365422396855
+76,Samsung,Phone,Flagship,Large (>=256 GB),Unspecified,2,0.19646365422396855
+98,Samsung,Tablet,On request,Large (>=256 GB),Cellular,2,0.19646365422396855
+111,Vietnamese brands,Tablet,On request,Unknown,Unspecified,2,0.19646365422396855
+50,Chinese brands,Tablet,On request,Small (<=128 GB),Cellular,2,0.19646365422396855
+58,Other international,E-reader,Mid-range,Small (<=128 GB),Unspecified,2,0.19646365422396855
+37,Chinese brands,Phone,Premium,Unknown,Unspecified,2,0.19646365422396855
+17,Chinese brands,E-reader,On request,Unknown,Unspecified,2,0.19646365422396855
+51,Chinese brands,Tablet,On request,Small (<=128 GB),Unspecified,2,0.19646365422396855
+66,Other international,Phone,Mid-range,Unknown,Unspecified,2,0.19646365422396855
+65,Other international,Phone,Mid-range,Small (<=128 GB),Unspecified,2,0.19646365422396855
+15,Chinese brands,E-reader,Budget,Unknown,Unspecified,2,0.19646365422396855
+62,Other international,Phone,Mid-range,Large (>=256 GB),Cellular,2,0.19646365422396855
+54,Chinese brands,Tablet,On request,Unknown,Wifi,2,0.19646365422396855
+1,Apple,Phone,Mid-range,Small (<=128 GB),Unspecified,2,0.19646365422396855
+100,Samsung,Tablet,On request,Unknown,Cellular,1,0.09823182711198428
+10,Apple,Tablet,Mid-range,Small (<=128 GB),Wifi,1,0.09823182711198428
+72,Other international,Tablet,On request,Unknown,Unspecified,1,0.09823182711198428
+103,Samsung,Tablet,Premium,Small (<=128 GB),Cellular,1,0.09823182711198428
+38,Chinese brands,Tablet,Budget,Large (>=256 GB),Unspecified,1,0.09823182711198428
+9,Apple,Tablet,Mid-range,Large (>=256 GB),Wifi,1,0.09823182711198428
+8,Apple,Tablet,Flagship,Small (<=128 GB),Cellular,1,0.09823182711198428
+107,Vietnamese brands,Phone,On request,Large (>=256 GB),Unspecified,1,0.09823182711198428
+3,Apple,Phone,On request,Unknown,Unspecified,1,0.09823182711198428
+2,Apple,Phone,On request,Large (>=256 GB),Unspecified,1,0.09823182711198428
+110,Vietnamese brands,Tablet,Budget,Small (<=128 GB),Cellular,1,0.09823182711198428
+104,Samsung,Tablet,Premium,Small (<=128 GB),Wifi,1,0.09823182711198428
+92,Samsung,Tablet,Budget,Small (<=128 GB),Cellular,1,0.09823182711198428
+42,Chinese brands,Tablet,Mid-range,Large (>=256 GB),Cellular,1,0.09823182711198428
+94,Samsung,Tablet,Flagship,Large (>=256 GB),Cellular,1,0.09823182711198428
+93,Samsung,Tablet,Budget,Small (<=128 GB),Wifi,1,0.09823182711198428
+74,Samsung,Phone,Budget,Unknown,Unspecified,1,0.09823182711198428
+90,Samsung,Phone,Premium,Small (<=128 GB),Cellular,1,0.09823182711198428
+52,Chinese brands,Tablet,On request,Unknown,Cellular,1,0.09823182711198428
+60,Other international,Phone,Budget,Unknown,Unspecified,1,0.09823182711198428
+61,Other international,Phone,Flagship,Large (>=256 GB),Cellular,1,0.09823182711198428
+63,Other international,Phone,Mid-range,Large (>=256 GB),Unspecified,1,0.09823182711198428
+64,Other international,Phone,Mid-range,Small (<=128 GB),Cellular,1,0.09823182711198428
+67,Other international,Phone,On request,Large (>=256 GB),Cellular,1,0.09823182711198428
+77,Samsung,Phone,Mid-range,Large (>=256 GB),Cellular,1,0.09823182711198428
+68,Other international,Phone,On request,Small (<=128 GB),Cellular,1,0.09823182711198428
+71,Other international,Phone,Premium,Large (>=256 GB),Unspecified,1,0.09823182711198428
+56,Chinese brands,Tablet,Premium,Large (>=256 GB),Wifi,1,0.09823182711198428

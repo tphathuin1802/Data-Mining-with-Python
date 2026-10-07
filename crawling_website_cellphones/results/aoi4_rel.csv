@@ -1,0 +1,18 @@
+,brand_group,product_type,price_level,Count,t-weight (%)
+7,Other brands,Phone,On request,531,52.16110019646365
+6,Other brands,Phone,Mass-market (<15M),141,13.850687622789785
+9,Other brands,Tablet/E-reader,Mass-market (<15M),67,6.581532416502947
+13,Samsung,Phone,On request,49,4.81335952848723
+3,Apple,Tablet/E-reader,High-end (>=15M),41,4.027504911591356
+10,Other brands,Tablet/E-reader,On request,40,3.9292730844793713
+11,Samsung,Phone,High-end (>=15M),33,3.2416502946954813
+0,Apple,Phone,High-end (>=15M),32,3.143418467583497
+5,Other brands,Phone,High-end (>=15M),28,2.75049115913556
+12,Samsung,Phone,Mass-market (<15M),21,2.06286836935167
+15,Samsung,Tablet/E-reader,Mass-market (<15M),9,0.8840864440078585
+14,Samsung,Tablet/E-reader,High-end (>=15M),9,0.8840864440078585
+8,Other brands,Tablet/E-reader,High-end (>=15M),6,0.5893909626719057
+16,Samsung,Tablet/E-reader,On request,5,0.4911591355599214
+1,Apple,Phone,Mass-market (<15M),2,0.19646365422396855
+4,Apple,Tablet/E-reader,Mass-market (<15M),2,0.19646365422396855
+2,Apple,Phone,On request,2,0.19646365422396855
